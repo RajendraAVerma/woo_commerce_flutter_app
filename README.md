@@ -1,16 +1,25 @@
-# woo_commerce_flutter_app
+# Flutter WooCommerce App
 
-A new Flutter project.
+![Flutter Version](https://img.shields.io/badge/flutter-v2.0.0-blue)
+![Dart Version](https://img.shields.io/badge/dart-v2.12.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+This is a Flutter app that utilizes the WooCommerce API to fetch and display products and categories from your WooCommerce store.
+
+## Features
+
+- Display a list of product.
+- Display a list of product categories.
+<!-- - Browse products within selected categories.
+- View detailed information about individual products.
+- Search for products using keywords.
+- Add products to the cart and proceed to checkout (feature in progress). -->
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. **Clone the repository:**
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://github.com/your-username/your-flutter-woocommerce-app.git
+   cd your-flutter-woocommerce-app
+   ```
